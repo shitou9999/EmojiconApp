@@ -18,7 +18,7 @@ import java.util.regex.Pattern;
 /**
  * Created by zhanghuan on 2016/3/9.
  *
- * 表情转换工具
+ * 表情转换工具0000
  */
 public class FaceConversionUtil {
 

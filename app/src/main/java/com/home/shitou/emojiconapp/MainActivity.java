@@ -12,6 +12,9 @@ import com.home.shitou.emojiconapp.emoji_two.EmoiconActivity;
 
 import zhanghuan.cn.emojiconlibrary.FaceConversionUtil;
 
+/**
+ * 表情处理
+ */
 public class MainActivity extends FragmentActivity implements EmojiconGridFragment.OnEmojiconClickedListener, EmojiconsFragment.OnEmojiconBackspaceClickedListener  {
     EmojiconEditText mEditEmojicon;
     EmojiconTextView mTxtEmojicon;
