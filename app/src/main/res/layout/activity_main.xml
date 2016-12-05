@@ -13,7 +13,13 @@
         android:layout_centerInParent="true"
         android:textSize="14dp"
         android:text="表情跳转" />
-
+    <Button
+        android:id="@+id/show_btn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textSize="14dp"
+        android:text="表情跳转2" />
     <CheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

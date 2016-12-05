@@ -8,6 +8,7 @@ import android.widget.CheckBox;
 import android.widget.CompoundButton;
 
 import com.home.shitou.emojiconapp.emoji.Emojicon;
+import com.home.shitou.emojiconapp.emoji_three.Main2Activity;
 import com.home.shitou.emojiconapp.emoji_two.EmoiconActivity;
 
 import zhanghuan.cn.emojiconlibrary.FaceConversionUtil;
@@ -34,7 +35,12 @@ public class MainActivity extends FragmentActivity implements EmojiconGridFragme
             }
         });
 
-
+        findViewById(R.id.show_btn2).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, Main2Activity.class));
+            }
+        });
 
         //********************************************************************
         mEditEmojicon = (EmojiconEditText) findViewById(R.id.editEmojicon);

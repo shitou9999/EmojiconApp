@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+    <string-array name="default_smiley_texts">
+        <item>"[狗宝宝]"</item>
+        <item>"[狗生日]"</item>
+        <item>"[狗吃饭]"</item>
+        <item>"[狗打针]"</item>
+        <item>"[狗吠叫]"</item>
+        <item>"[狗感冒]"</item>
+        <item>"[狗怀孕]"</item>
+        <item>"[狗满月]"</item>
+        <item>"[狗牵手]"</item>
+        <item>"[狗散步]"</item>
+        <item>"[狗睡觉]"</item>
+        <item>"[狗洗澡]"</item>
+        <item>"[狗摇尾]"</item>
+        <item>"[狗造型]"</item>
+        <item>"[猫宝宝]"</item>
+        <item>"[猫生日]"</item>
+        <item>"[猫铲屎]"</item>
+        <item>"[猫吃饭]"</item>
+        <item>"[猫怀孕]"</item>
+        <item>"[猫满月]"</item>
+        <item>"[猫魔爪]"</item>
+        <item>"[猫睡觉]"</item>
+        <item>"[猫洗脸]"</item>
+        <item>"[猫洗澡]"</item>
+    </string-array>
+</resources>
