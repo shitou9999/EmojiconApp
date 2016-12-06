@@ -48,24 +48,24 @@ public class Expressions {
                         "[阴脸]", "[奋斗]", "[发呆]", "[右哼哼]", "[拥抱]", "[坏笑]", "[鄙视]", "[晕]",
                         "[大兵]", "[可怜]", "[强]", "[弱]", "[握手]", "[胜利]" };
 
-        public static int[] expressionImgs2 = new int[] { R.drawable.d_baibai,
-                        R.drawable.d_heixian, R.drawable.d_yinxian,
-                        R.drawable.d_dalian, R.drawable.d_shayan,
-                        R.drawable.f_hufen, R.drawable.l_xin,
-                        R.drawable.l_shangxin, R.drawable.d_zhutou,
-                        R.drawable.d_xiongmao, R.drawable.d_tuzi,
-                        R.drawable.h_woshou, R.drawable.h_zuoyi,
-                        R.drawable.h_zan, R.drawable.h_ye,
-                        R.drawable.h_good, R.drawable.h_ruo,
-                        R.drawable.h_buyao, R.drawable.h_ok,
-                        R.drawable.h_haha, R.drawable.h_lai,
-                        R.drawable.h_quantou, R.drawable.f_v5,
-                        R.drawable.w_xianhua };
+//        public static int[] expressionImgs2 = new int[] { R.drawable.d_baibai,
+//                        R.drawable.d_heixian, R.drawable.d_yinxian,
+//                        R.drawable.d_dalian, R.drawable.d_shayan,
+//                        R.drawable.f_hufen, R.drawable.l_xin,
+//                        R.drawable.l_shangxin, R.drawable.d_zhutou,
+//                        R.drawable.d_xiongmao, R.drawable.d_tuzi,
+//                        R.drawable.h_woshou, R.drawable.h_zuoyi,
+//                        R.drawable.h_zan, R.drawable.h_ye,
+//                        R.drawable.h_good, R.drawable.h_ruo,
+//                        R.drawable.h_buyao, R.drawable.h_ok,
+//                        R.drawable.h_haha, R.drawable.h_lai,
+//                        R.drawable.h_quantou, R.drawable.f_v5,
+//                        R.drawable.w_xianhua };
 
-        public static String[] expressionImgNames2 = new String[] { "[抱拳]", "[蛋糕]",
-                        "[啤酒]", "[勾你]", "[爱你]", "[咖啡]", "[差劲]", "[拳头]", "[心碎]", "[足球]",
-                        "[饥饿]", "[困]", "[咒骂]", "[折磨]", "[抠鼻]", "[鼓掌]", "[糗大了]", "[左哼哼]",
-                        "[哈欠]", "[快哭了]", "[吓]", "[篮球]", "[乒乓]", "[NO]" };
+//        public static String[] expressionImgNames2 = new String[] { "[抱拳]", "[蛋糕]",
+//                        "[啤酒]", "[勾你]", "[爱你]", "[咖啡]", "[差劲]", "[拳头]", "[心碎]", "[足球]",
+//                        "[饥饿]", "[困]", "[咒骂]", "[折磨]", "[抠鼻]", "[鼓掌]", "[糗大了]", "[左哼哼]",
+//                        "[哈欠]", "[快哭了]", "[吓]", "[篮球]", "[乒乓]", "[NO]" };
 
         public static String[] replaceStrings(String[] str, String[] str2) {
                 String newStr[] = new String[str.length - 1];

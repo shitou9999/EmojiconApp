@@ -916,9 +916,9 @@ public final class EmojiconHandler {
         sSoftbanksMap.put(0xe015, R.drawable.emoji_1f3be);
         sSoftbanksMap.put(0xe016, R.drawable.emoji_26be);
         sSoftbanksMap.put(0xe017, R.drawable.emoji_1f3c4);
+        sSoftbanksMap.put(0xe01a, R.drawable.emoji_1f434);
         sSoftbanksMap.put(0xe018, R.drawable.emoji_26bd);
         sSoftbanksMap.put(0xe019, R.drawable.emoji_1f3a3);
-        sSoftbanksMap.put(0xe01a, R.drawable.emoji_1f434);
         sSoftbanksMap.put(0xe01b, R.drawable.emoji_1f697);
         sSoftbanksMap.put(0xe01c, R.drawable.emoji_26f5);
         sSoftbanksMap.put(0xe01d, R.drawable.emoji_2708);
